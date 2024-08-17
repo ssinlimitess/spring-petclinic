@@ -40,7 +40,7 @@ public class PetClinicApplication implements CommandLineRunner {
 	}
 
 	@Override
-	public void run(String... args) throws Exception {
+	public void run(String... args)  {
 		System.out.println("Hello desvs4j");
 	}
 }
