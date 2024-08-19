@@ -41,6 +41,7 @@ public class PetClinicApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args)  {
-		System.out.println("Hello desvs4j");
+		System.out.println("Hello from a desvs4j");
+		System.out.println("Hola desde un desv4j");
 	}
 }
